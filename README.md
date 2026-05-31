@@ -1,6 +1,6 @@
 # Woolf University. Design Patterns Course. Homework – OOP Basics
 
-## Homework 1 - OOP Basics
+## Homework – OOP Basics
 
 Practice core Object-Oriented Programming principles in TypeScript.
 
@@ -29,8 +29,8 @@ The app should demonstrate:
 * Extending behavior through inheritance
 * Showing different behavior through polymorphism
 
-### Notes
+### Run
 
-* Use TypeScript only.
-* Do not use external libraries.
-* Keep each class in a separate file.
+```bash
+npx ts-node src/main.ts
+```
